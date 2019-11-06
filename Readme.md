@@ -13,7 +13,7 @@ Download the F2P2 library, and open one of the tutorials in Matlab to run the wh
 
 Minor modifications in the .lrp file generation function can be needed when using the library on a system that has not been tested before. 
 
-#Copyright 
+# Copyright 
 (C) 2019 Nicolas Broguiere
 GreyScale patterning function includes code by Ines Luchtefeld. 
 
