@@ -14,7 +14,8 @@ Download the F2P2 library, and open one of the tutorials in Matlab to run the wh
 Minor modifications in the .lrp file generation function can be needed when using the library on a system that has not been tested before. 
 
 # Copyright 
-(C) 2019 Nicolas Broguiere
+(C) 2019 Nicolas Broguiere.
+
 GreyScale patterning function includes code by Ines Luchtefeld. 
 
 This library helps to generate instructions for Leica two-photon microscopes, but it is not developed nor supported by Leica. We recommend great care in usage to avoid physical damage to instruments that would not necessarily be covered by any warranty. 
