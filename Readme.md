@@ -4,9 +4,10 @@ Matlab library that takes inputs in the form of gray scale images (free-contrast
 A Leica Application Software (LAS) Live data mode file (.lrp) is used as a template setting basic parameters, and another .lrp file is generated that contains the complex patterning instructions. 
 
 ### Software
-Matlab 2018b with:
+Developed on Matlab 2018b with:
 	- Image Processing toolbox
 	- Mapping toolbox
+Further tested on Matlab 2020a. 
 
 ### Quick-start
 Download the F2P2 library, and open one of the tutorials in Matlab to run the whole workflow on a test 3D model or image. The flow can then be adapted to use other template images, dimensions, or inputs to patterns. 
