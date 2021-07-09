@@ -1,19 +1,19 @@
-# Overview
+### Overview
 Matlab library that takes inputs in the form of gray scale images (free-contrast) or triangular meshes (free-form) and generates instructions for their reproduction in two-photon patterning experiments. 
 
 A Leica Application Software (LAS) Live data mode file (.lrp) is used as a template setting basic parameters, and another .lrp file is generated that contains the complex patterning instructions. 
 
-# Software
+### Software
 Matlab 2018b with:
 	- Image Processing toolbox
 	- Mapping toolbox
 
-# Quick-start
+### Quick-start
 Download the F2P2 library, and open one of the tutorials in Matlab to run the whole workflow on a test 3D model or image. The flow can then be adapted to use other template images, dimensions, or inputs to patterns. 
 
 Minor modifications in the .lrp file generation function can be needed when using the library on a system that has not been tested before. 
 
-# Copyright 
+### Copyright 
 (C) 2019 Nicolas Broguiere.
 
 GreyScale patterning function includes code by Ines Luchtefeld. 
