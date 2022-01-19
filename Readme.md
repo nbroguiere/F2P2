@@ -13,7 +13,7 @@ Further tested on Matlab 2020a.
 ### Quick-start
 Download the F2P2 library, and open one of the tutorials in Matlab to run the whole workflow on a test 3D model or image. The flow can then be adapted to use other template images, dimensions, or inputs to patterns. 
 
-Minor modifications in the .lrp file generation function can be needed when using the library on a system that has not been tested before. 
+Minor modifications to the .lrp file generation function may be needed when using the library on a microscopy system that has not been tested before. 
 
 ### Copyright 
 (C) 2019 Nicolas Broguiere.
