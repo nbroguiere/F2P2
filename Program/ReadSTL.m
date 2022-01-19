@@ -1,7 +1,7 @@
 function [ triangles, normals, name ] = ReadSTL(name)
 % Read an ASCII *.stl file and stores its triangles in a matrix
 % Usage: [ triangles, normals, name ] = ReadSTL(name)
-% Nicolas Broguiere, first version 3.1.2012, last edit 17.91.2022.
+% Nicolas Broguiere, first version 3.1.2012, last edit 17.01.2022.
 
     ID=fopen(name);
     %Import. %f means 'keep the float', and %*s means 'ignore the string'. 
