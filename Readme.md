@@ -5,8 +5,9 @@ A Leica Application Software (LAS) Live data mode file (.lrp) is used as a templ
 
 ### Software
 Developed on Matlab 2018b with:
-	- Image Processing toolbox
-	- Mapping toolbox
+- Image Processing toolbox
+- Mapping toolbox
+
 Further tested on Matlab 2020a. 
 
 ### Quick-start
